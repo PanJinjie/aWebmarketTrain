@@ -261,5 +261,26 @@
 	</build>
 	<modules>
 		<module>pinyougou-commons</module>
+		<module>pinyougou-cart-interface</module>
+		<module>pinyougou-cart-service</module>
+		<module>pinyougou-content-interface</module>
+		<module>pinyougou-content-service</module>
+		<module>pinyougou-dao</module>
+		<module>pinyougou-item-web</module>
+		<module>pinyougou-manager-web</module>
+		<module>pinyougou-order-interface</module>
+		<module>pinyougou-order-service</module>
+		<module>pinyougou-order-web</module>
+		<module>pinyougou-passport-interface</module>
+		<module>pinyougou-passport-service</module>
+		<module>pinyougou-passport-web</module>
+		<module>pinyougou-portal-web</module>
+		<module>pinyougou-search-interface</module>
+		<module>pinyougou-search-service</module>
+		<module>pinyougou-searcher-web</module>
+		<module>pinyougou-sellergoods-interface</module>
+		<module>pinyougou-sellergoods-service</module>
+		<module>pinyougou-shop-web</module>
+		<module>pinyougou-pojo</module>
 	</modules>
 </project>
